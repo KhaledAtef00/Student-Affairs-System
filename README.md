@@ -32,4 +32,11 @@ a home page.
 
 
 
+![8e36b7a7-12bb-47ca-8838-ce00995fc200 (1)](https://github.com/KhaledAtef00/Student-Affairs-System/assets/105244576/d16b1128-1e45-4612-a2bf-822ae805a19d)
+![fbfce71d-78aa-49c9-8246-baf70a4739d2](https://github.com/KhaledAtef00/Student-Affairs-System/assets/105244576/22e8bdca-898e-4f5d-b268-7bba8ffc4672)
+![d5f097a1-ddeb-427b-a43c-0b96c525e3db](https://github.com/KhaledAtef00/Student-Affairs-System/assets/105244576/f9d2e7e3-b4e8-4884-b78f-741e71bad4be)
+![cd0c6f12-adee-44b5-af12-7a2ac0a76fca](https://github.com/KhaledAtef00/Student-Affairs-System/assets/105244576/d6714b4e-acf1-4868-b183-85b2904624bc)
+![289e0cfe-da5f-496d-aa5d-df5524fb84c0](https://github.com/KhaledAtef00/Student-Affairs-System/assets/105244576/bdf914d1-cc13-40c4-bebe-627de3d3ccfd)
+
+
 
